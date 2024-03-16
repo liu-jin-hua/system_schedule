@@ -26,3 +26,5 @@ master:version6 -m "使用idea使用git"
 spc01:version1
 
 spc01:version2 -m "这部分代码是需要合并到主干分支的"
+
+spc01:version3 -m "这里发生了冲突"
