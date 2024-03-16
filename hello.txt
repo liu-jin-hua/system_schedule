@@ -24,3 +24,5 @@ master:version5 -m "使用idea使用git"
 master:version6 -m "使用idea使用git"
 
 spc01:version1
+
+spc01:version2 -m "这部分代码是需要合并到主干分支的"
