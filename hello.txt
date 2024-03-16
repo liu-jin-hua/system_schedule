@@ -27,4 +27,6 @@ spc01:version1
 
 spc01:version2 -m "这部分代码是需要合并到主干分支的"
 
+spc01:version3 -m "这里发生了冲突"
+
 master:version7 -m "这部分是冲突点"
